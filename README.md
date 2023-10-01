@@ -7,4 +7,10 @@ Thre remaining app is like normal chat app made with Socket.io
 ## Anyone can initiate this project everyone is welcome
 
 Client Side Functionality - client folder
+
+
+
+
+
 Server Side Functionality - server folder
+  - Inside index.js intialize server
