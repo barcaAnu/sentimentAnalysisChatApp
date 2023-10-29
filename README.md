@@ -14,4 +14,4 @@ Client Side Functionality - client folde
 
 Server Side Functionality - server folder
   - Inside index.js intialize server
-  - Models  folder contains Schema Design 
+  - Model  folder contains Schema Design
