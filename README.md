@@ -4,7 +4,7 @@ I want to develop an MERN stack chat app which includes power of sentiment analy
 Thre remaining app is like normal chat app made with Socket.io
 
 
-## Anyone can initiate this project everyone is welcome
+## Anyone can initiate this project everyone is Welcome
 
 Client Side Functionality - client folde
 
