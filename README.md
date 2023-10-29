@@ -6,7 +6,7 @@ Thre remaining app is like normal chat app made with Socket.IO
 
 ## Anyone can initiate this project everyone is welcome
 
-Client Side Functionality - client folder
+Client Side Functionality - client folde
 
 
 
